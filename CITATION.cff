@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as described below."
+type: software
+title: "RGS6 knockout bulk RNA-seq analysis"
+version: "1.0.0"
+date-released: 2026-08-28
+authors:
+  - family-names: "Borges"
+    given-names: "Vini"
+license: MIT
+abstract: "Reproducible paired-end RNA-seq preprocessing and differential-expression analysis for the RGS6 knockout study."
