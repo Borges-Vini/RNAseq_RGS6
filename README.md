@@ -1,5 +1,7 @@
 # RGS6 knockout bulk RNA-seq analysis
 
+[![DOI](https://zenodo.org/badge/1349394142.svg)](https://doi.org/10.5281/zenodo.22142601)
+
 Reproducible preprocessing and differential-expression analysis for the RGS6
 knockout bulk RNA-seq study.
 
