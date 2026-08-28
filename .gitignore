@@ -1,0 +1,39 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Analysis outputs
+results/
+output/
+QC_results/
+Trimmed/
+Aligned/
+
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignment files
+*.bam
+*.bai
+*.sam
+
+# Large reference files
+*.gtf
+*.fa
+*.fasta
+*.tar.gz
+
+# Temporary files
+tmp/
+temp/
+
+# Local configuration
+config/config.R
