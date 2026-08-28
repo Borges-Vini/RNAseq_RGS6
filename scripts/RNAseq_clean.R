@@ -4,6 +4,7 @@
 # Faithful clean version of RNAseq.R for the paired-end dataset used by the
 # downstream DGE analysis. The operative fastp, HISAT2, and SAMtools parameters
 # are retained; only configuration, validation, and file handling are organized.
+#
 # Input files must be named SAMPLE_R1.fastq.gz and SAMPLE_R2.fastq.gz.
 # =============================================================================
 
